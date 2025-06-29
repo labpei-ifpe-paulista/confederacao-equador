@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/confederacao-equador/static/css/main.9c18e088.css",
-    "main.js": "/confederacao-equador/static/js/main.cbe36ceb.js",
+    "main.js": "/confederacao-equador/static/js/main.35f78c04.js",
     "static/js/453.2688bcbf.chunk.js": "/confederacao-equador/static/js/453.2688bcbf.chunk.js",
     "static/media/gameboy.png": "/confederacao-equador/static/media/gameboy.af8806e42dfe01afe2b5.png",
     "static/media/team3.png": "/confederacao-equador/static/media/team3.0e49c10e806ff4f03f21.png",
@@ -16,11 +16,11 @@
     "static/media/image29.png": "/confederacao-equador/static/media/image29.7d490637a94a6596070d.png",
     "index.html": "/confederacao-equador/index.html",
     "main.9c18e088.css.map": "/confederacao-equador/static/css/main.9c18e088.css.map",
-    "main.cbe36ceb.js.map": "/confederacao-equador/static/js/main.cbe36ceb.js.map",
+    "main.35f78c04.js.map": "/confederacao-equador/static/js/main.35f78c04.js.map",
     "453.2688bcbf.chunk.js.map": "/confederacao-equador/static/js/453.2688bcbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c18e088.css",
-    "static/js/main.cbe36ceb.js"
+    "static/js/main.35f78c04.js"
   ]
 }
