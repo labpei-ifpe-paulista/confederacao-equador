@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c18e088.css",
-    "main.js": "/static/js/main.45bb6f37.js",
-    "static/js/453.2688bcbf.chunk.js": "/static/js/453.2688bcbf.chunk.js",
-    "static/media/gameboy.png": "/static/media/gameboy.af8806e42dfe01afe2b5.png",
-    "static/media/team3.png": "/static/media/team3.0e49c10e806ff4f03f21.png",
-    "static/media/team6.png": "/static/media/team6.35ff56aeec01e1150c79.png",
-    "static/media/team2.png": "/static/media/team2.b296e149eb737cfae9c3.png",
-    "static/media/team1.png": "/static/media/team1.99192a89a914e8abbee0.png",
-    "static/media/image26.png": "/static/media/image26.32e81aa38bf3775416ac.png",
-    "static/media/image25.png": "/static/media/image25.2f794abd5f978b984e6b.png",
-    "static/media/facepe-logo.png": "/static/media/facepe-logo.66c45071ec39171596bc.png",
-    "static/media/team4.png": "/static/media/team4.29bae579fb61ace80bff.png",
-    "static/media/team5.png": "/static/media/team5.6a1a8023864ec8666777.png",
-    "static/media/image29.png": "/static/media/image29.7d490637a94a6596070d.png",
-    "index.html": "/index.html",
-    "main.9c18e088.css.map": "/static/css/main.9c18e088.css.map",
-    "main.45bb6f37.js.map": "/static/js/main.45bb6f37.js.map",
-    "453.2688bcbf.chunk.js.map": "/static/js/453.2688bcbf.chunk.js.map"
+    "main.css": "/confederacao-equador/static/css/main.9c18e088.css",
+    "main.js": "/confederacao-equador/static/js/main.30c5799b.js",
+    "static/js/453.2688bcbf.chunk.js": "/confederacao-equador/static/js/453.2688bcbf.chunk.js",
+    "static/media/gameboy.png": "/confederacao-equador/static/media/gameboy.af8806e42dfe01afe2b5.png",
+    "static/media/team3.png": "/confederacao-equador/static/media/team3.0e49c10e806ff4f03f21.png",
+    "static/media/team6.png": "/confederacao-equador/static/media/team6.35ff56aeec01e1150c79.png",
+    "static/media/team2.png": "/confederacao-equador/static/media/team2.b296e149eb737cfae9c3.png",
+    "static/media/team1.png": "/confederacao-equador/static/media/team1.99192a89a914e8abbee0.png",
+    "static/media/image26.png": "/confederacao-equador/static/media/image26.32e81aa38bf3775416ac.png",
+    "static/media/image25.png": "/confederacao-equador/static/media/image25.2f794abd5f978b984e6b.png",
+    "static/media/facepe-logo.png": "/confederacao-equador/static/media/facepe-logo.66c45071ec39171596bc.png",
+    "static/media/team4.png": "/confederacao-equador/static/media/team4.29bae579fb61ace80bff.png",
+    "static/media/team5.png": "/confederacao-equador/static/media/team5.6a1a8023864ec8666777.png",
+    "static/media/image29.png": "/confederacao-equador/static/media/image29.7d490637a94a6596070d.png",
+    "index.html": "/confederacao-equador/index.html",
+    "main.9c18e088.css.map": "/confederacao-equador/static/css/main.9c18e088.css.map",
+    "main.30c5799b.js.map": "/confederacao-equador/static/js/main.30c5799b.js.map",
+    "453.2688bcbf.chunk.js.map": "/confederacao-equador/static/js/453.2688bcbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c18e088.css",
-    "static/js/main.45bb6f37.js"
+    "static/js/main.30c5799b.js"
   ]
 }
